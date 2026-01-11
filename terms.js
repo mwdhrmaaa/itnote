@@ -790,6 +790,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "django",
+        term: {
+            en: "Django",
+            id: "Django",
+            es: "Django",
+            fr: "Django",
+            de: "Django",
+            ja: "ジャンゴ (Django)",
+            zh: "Django",
+            ar: "ديجانجو (Django)"
+        },
+        definition: {
+            en: "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+            id: "Framework web Python tingkat tinggi yang mendorong pengembangan cepat dan desain yang bersih serta pragmatis.",
+            es: "Un marco web Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático.",
+            fr: "Un framework Web Python de haut niveau qui encourage un développement rapide et une conception propre et pragmatique.",
+            de: "Ein hochgradiges Python-Web-Framework, das eine schnelle Entwicklung und ein sauberes, pragmatisches Design fördert.",
+            ja: "迅速な開発とクリーンで実用的な設計を促進する、ハイレベルなPythonウェブフレームワーク。",
+            zh: "一个高级的 Python Web 框架，鼓励快速开发和简洁、务实的设计。",
+            ar: "إطار عمل ويب بايثون عالي المستوى يشجع على التطوير السريع والتصميم النظيف والبراغماتي."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
