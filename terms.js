@@ -1747,6 +1747,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "yarn",
+        term: {
+            en: "Yarn",
+            id: "Yarn",
+            es: "Yarn",
+            fr: "Yarn",
+            de: "Yarn",
+            ja: "ヤーン (Yarn)",
+            zh: "Yarn",
+            ar: "يارن (Yarn)"
+        },
+        definition: {
+            en: "An open-source package manager for JavaScript code, developed by Facebook.",
+            id: "Manajer paket open-source untuk kode JavaScript, dikembangkan oleh Facebook.",
+            es: "Un administrador de paquetes de código abierto para el código JavaScript, desarrollado por Facebook.",
+            fr: "Un gestionnaire de paquets open source pour le code JavaScript, développé par Facebook.",
+            de: "Ein Open-Source-Paketmanager für JavaScript-Code, der von Facebook entwickelt wurde.",
+            ja: "Facebookによって開発された、JavaScriptコード用のオープンソースパッケージマネージャー。",
+            zh: "一个由 Facebook 开发的 JavaScript 代码开源包管理器。",
+            ar: "مدير حزم مفتوح المصدر لكود جافا سكريبت، طورته شركة Facebook."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
