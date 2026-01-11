@@ -1417,6 +1417,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "vite",
+        term: {
+            en: "Vite",
+            id: "Vite",
+            es: "Vite",
+            fr: "Vite",
+            de: "Vite",
+            ja: "バイト (Vite)",
+            zh: "Vite",
+            ar: "فايت (Vite)"
+        },
+        definition: {
+            en: "A modern frontend build tool that provides a faster and leaner development experience for modern web projects.",
+            id: "Alat build frontend modern yang memberikan pengalaman pengembangan yang lebih cepat dan lebih ramping untuk proyek web modern.",
+            es: "Una herramienta de construcción frontend moderna que proporciona una experiencia de desarrollo más rápida y ágil para proyectos web modernos.",
+            fr: "Un outil de construction frontend moderne qui offre une expérience de développement plus rapide et plus légère pour les projets Web modernes.",
+            de: "Ein modernes Frontend-Build-Tool, das eine schnellere und schlankere Entwicklungserfahrung für moderne Webprojekte bietet.",
+            ja: "最新のウェブプロジェクト向けに、より高速でスリムな開発体験を提供する最新のフロントエンドビルドツール。",
+            zh: "一个现代的前端构建工具，为现代 Web 项目提供更快速、更精简の開発体验。",
+            ar: "أداة بناء واجهة أمامية حديثة توفر تجربة تطوير أسرع وأكثر رشاقة لمشاريع الويب الحديثة."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
