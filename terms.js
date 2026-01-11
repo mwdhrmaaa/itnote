@@ -1681,6 +1681,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "storybook",
+        term: {
+            en: "Storybook",
+            id: "Storybook",
+            es: "Storybook",
+            fr: "Storybook",
+            de: "Storybook",
+            ja: "ストーリーブック (Storybook)",
+            zh: "Storybook",
+            ar: "ستوري بوك (Storybook)"
+        },
+        definition: {
+            en: "An open-source tool for building UI components and pages in isolation.",
+            id: "Alat open-source untuk membangun komponen dan halaman UI secara terisolasi.",
+            es: "Una herramienta de código abierto para crear componentes y páginas de interfaz de usuario de forma aislada.",
+            fr: "Un outil open source pour créer des composants et des pages d'interface utilisateur de manière isolée.",
+            de: "Ein Open-Source-Tool zum isolierten Erstellen von UI-Komponenten und Seiten.",
+            ja: "UIコンポーネントとページを個別に構築するためのオープンソースツール。",
+            zh: "一个用于独立构建 UI 组件和页面的开源工具。",
+            ar: "أداة مفتوحة المصدر لبناء مكونات واجهة المستخدم وصفحاتها بشكل منفصل."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
