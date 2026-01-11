@@ -1285,6 +1285,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "csharp",
+        term: {
+            en: "C#",
+            id: "C#",
+            es: "C#",
+            fr: "C#",
+            de: "C#",
+            ja: "C#",
+            zh: "C#",
+            ar: "سي شارب (C#)"
+        },
+        definition: {
+            en: "A modern, object-oriented, and type-safe programming language developed by Microsoft that runs on the .NET framework.",
+            id: "Bahasa pemrograman modern, berorientasi objek, dan aman tipe yang dikembangkan oleh Microsoft yang berjalan pada framework .NET.",
+            es: "Un lenguaje de programación moderno, orientado a objetos y seguro de tipos desarrollado por Microsoft que se ejecuta en el marco .NET.",
+            fr: "Un langage de programmation moderne, orienté objet et sécurisé par type développé par Microsoft qui s'exécute sur le framework .NET.",
+            de: "Eine moderne, objektorientierte und typsichere Programmiersprache, die von Microsoft entwickelt wurde und auf dem .NET-Framework läuft.",
+            ja: ".NETフレームワーク上で動作する、Microsoftによって開発された最新のオブジェクト指向および型安全なプログラミング言語。",
+            zh: "一门由 Microsoft 开发的现代面向对象、类型安全的编程语言，运行在 .NET 框架上。",
+            ar: "لغة برمجة حديثة وموجهة للكائنات وآمنة للكتابة طورتها شركة Microsoft وتعمل على إطار عمل .NET."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
