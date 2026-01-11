@@ -25,6 +25,70 @@ body {
         radial-gradient(circle at 80% 80%, rgba(139, 92, 246, 0.15) 0%, transparent 40%);
 }
 
+.top-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+    animation: fadeIn 0.8s ease-out;
+}
+
+.lang-selector {
+    display: flex;
+    align-items: center;
+    background: var(--card-bg);
+    border: 1px solid var(--glass-border);
+    backdrop-filter: blur(8px);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.lang-selector:hover {
+    border-color: var(--primary);
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.2);
+}
+
+.lang-icon {
+    width: 18px;
+    height: 18px;
+    color: var(--text-muted);
+}
+
+#lang-select {
+    background: transparent;
+    border: none;
+    color: var(--text-main);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+}
+
+#lang-select option {
+    background: var(--bg-dark);
+    color: white;
+}
+
+/* RTL Support */
+body.rtl {
+    direction: rtl;
+}
+
+body.rtl .search-icon {
+    left: auto;
+    right: 1.25rem;
+}
+
+body.rtl #search-input {
+    padding: 1.2rem 3.5rem 1.2rem 1.5rem;
+}
+
+body.rtl .term-card::before {
+    left: auto;
+    right: 0;
+}
+
 .container {
     max-width: 1000px;
     margin: 0 auto;
