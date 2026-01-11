@@ -1714,6 +1714,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "npm",
+        term: {
+            en: "Npm",
+            id: "Npm",
+            es: "Npm",
+            fr: "Npm",
+            de: "Npm",
+            ja: "Npm",
+            zh: "Npm",
+            ar: "Npm"
+        },
+        definition: {
+            en: "A package manager for the JavaScript programming language and the default package manager for the JavaScript runtime environment Node.js.",
+            id: "Manajer paket untuk bahasa pemrograman JavaScript dan manajer paket default untuk lingkungan runtime JavaScript Node.js.",
+            es: "Un administrador de paquetes para el lenguaje de programación JavaScript y el administrador de paquetes predeterminado para el entorno de ejecución de JavaScript Node.js.",
+            fr: "Un gestionnaire de paquets pour le langage de programmation JavaScript et le gestionnaire de paquets par défaut pour l'environnement d'exécution JavaScript Node.js.",
+            de: "Ein Paketmanager für die Programmiersprache JavaScript und der Standard-Paketmanager für die JavaScript-Laufzeitumgebung Node.js.",
+            ja: "JavaScriptプログラミング言語用のパッケージマネージャーであり、JavaScript実行環境Node.jsのデフォルトのパッケージマネージャー。",
+            zh: "JavaScript 编程语言的包管理器，也是 JavaScript 运行时环境 Node.js 的默认包管理器。",
+            ar: "مدير حزم للغة برمجة جافا سكريبت ومدير الحزم الافتراضي لبيئة تشغيل جافا سكريبت Node.js."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
