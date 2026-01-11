@@ -856,6 +856,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "rails",
+        term: {
+            en: "Ruby on Rails",
+            id: "Ruby on Rails",
+            es: "Ruby on Rails",
+            fr: "Ruby on Rails",
+            de: "Ruby on Rails",
+            ja: "Ruby on Rails",
+            zh: "Ruby on Rails",
+            ar: "روبي على قضبان (Ruby on Rails)"
+        },
+        definition: {
+            en: "A server-side web application framework written in Ruby under the MIT License.",
+            id: "Framework aplikasi web sisi server yang ditulis dalam Ruby di bawah Lisensi MIT.",
+            es: "Un marco de aplicación web del lado del servidor escrito en Ruby bajo la licencia MIT.",
+            fr: "Un framework d'application Web côté serveur écrit en Ruby sous licence MIT.",
+            de: "Ein serverseitiges Webanwendungs-Framework, das in Ruby unter der MIT-Lizenz geschrieben wurde.",
+            ja: "MITライセンスの下でRubyで書かれた、サーバーサイドウェブアプリケーションフレームワーク。",
+            zh: "一个在 MIT 许可下使用 Ruby 编写的服务器端 Web 应用程序框架。",
+            ar: "إطار عمل لتطبيقات الويب من جانب الخادم مكتوب بلغة Ruby بموجب ترخيص MIT."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
