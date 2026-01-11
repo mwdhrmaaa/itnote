@@ -1879,6 +1879,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "webassembly",
+        term: {
+            en: "WebAssembly (Wasm)",
+            id: "WebAssembly (Wasm)",
+            es: "WebAssembly (Wasm)",
+            fr: "WebAssembly (Wasm)",
+            de: "WebAssembly (Wasm)",
+            ja: "ウェブアセンブリ (Wasm)",
+            zh: "WebAssembly (Wasm)",
+            ar: "ويب أسيمبلي (Wasm)"
+        },
+        definition: {
+            en: "A binary instruction format for a stack-based virtual machine, designed as a portable compilation target for programming languages.",
+            id: "Format instruksi biner untuk mesin virtual berbasis tumpukan, dirancang sebagai target kompilasi portabel untuk bahasa pemrograman.",
+            es: "Un formato de instrucción binaria para una máquina virtual basada en pilas, diseñado como un objetivo de compilación portátil para lenguajes de programación.",
+            fr: "Un format d'instruction binaire pour une machine virtuelle à pile, conçu comme une cible de compilation portable pour les langages de programmation.",
+            de: "Ein binäres Instruktionsformat für eine stapelbasierte virtuelle Maschine, das als portables Kompilierungsziel für Programmiersprachen konzipiert ist.",
+            ja: "プログラミング言語のポータブルなコンパイルターゲットとして設計された、スタックベースの仮想マシン用のバイナリ命令形式。",
+            zh: "一种用于基于堆栈的虚拟机的二进制指令格式，旨在作为编程语言的可移植编译目标。",
+            ar: "تنسيق تعليمات ثنائي لآلة افتراضية تعتمد على المكدس، مصمم كهدف تجميع محمول للغات البرمجة."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
