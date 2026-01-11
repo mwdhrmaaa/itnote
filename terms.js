@@ -1582,6 +1582,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "prettier",
+        term: {
+            en: "Prettier",
+            id: "Prettier",
+            es: "Prettier",
+            fr: "Prettier",
+            de: "Prettier",
+            ja: "プリティアー (Prettier)",
+            zh: "Prettier",
+            ar: "بريتيير (Prettier)"
+        },
+        definition: {
+            en: "An opinionated code formatter that supports many languages and integrates with most editors.",
+            id: "Pemformat kode yang berpendirian yang mendukung banyak bahasa dan terintegrasi dengan sebagian besar editor.",
+            es: "Un formateador de código de opinión yang menyatukan banyak bahasa dan se integra con la mayoría de los editores.",
+            fr: "Un formateur de code opiniâtre qui prend en charge de nombreuses langues et s'intègre à la plupart des éditeurs.",
+            de: "Ein eigenwilliger Code-Formatierer, der viele Sprachen unterstützt und in die meisten Editoren integriert werden kann.",
+            ja: "多くの言語をサポートし、ほとんどのエディタと統合される、意見の強いコードフォーマッタ。",
+            zh: "一个自以为是的代码格式化程序，支持多种语言并与大多数编辑器集成。",
+            ar: "منسق كود يعتمد على رأي معين يدعم العديد من اللغات ويتكامل مع معظم المحررين."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
