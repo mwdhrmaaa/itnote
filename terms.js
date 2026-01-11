@@ -955,6 +955,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "flutter",
+        term: {
+            en: "Flutter",
+            id: "Flutter",
+            es: "Flutter",
+            fr: "Flutter",
+            de: "Flutter",
+            ja: "フラッター (Flutter)",
+            zh: "Flutter",
+            ar: "فلاتر (Flutter)"
+        },
+        definition: {
+            en: "An open-source UI software development kit created by Google, used to develop cross-platform applications.",
+            id: "SDK pengembangan perangkat lunak UI open-source yang dibuat oleh Google, digunakan untuk membangun aplikasi lintas platform.",
+            es: "Un kit de desarrollo de software de interfaz de usuario de código abierto creado por Google, utilizado para desarrollar aplicaciones multiplataforma.",
+            fr: "Un kit de développement logiciel d'interface utilisateur open source créé par Google, utilisé pour développer des applications multiplateformes.",
+            de: "Ein von Google entwickeltes Open-Source-UI-Software-Development-Kit zur Entwicklung plattformübergreifender Anwendungen.",
+            ja: "Googleによって作成されたオープンソースのUIソフトウェア開発キットで、クロスプラットフォームアプリケーションの開発に使用されます。",
+            zh: "由 Google 创建的开源 UI 软件开发工具包，用于开发跨平台应用程序。",
+            ar: "مجموعة أدوات تطوير برمجيات واجهة المستخدم مفتوحة المصدر التي أنشأتها Google، وتستخدم لتطوير تطبيقات متعددة المنصات."
+        },
+        category: {
+            en: "Mobile Development",
+            id: "Pengembangan Mobile",
+            es: "Desarrollo Móvil",
+            fr: "Développement Mobile",
+            de: "Mobilentwicklung",
+            ja: "モバイル開発",
+            zh: "移动开发",
+            ar: "تطوير تطبيقات الجوال"
+        }
     }
 ];
 
