@@ -724,6 +724,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "nodejs",
+        term: {
+            en: "Node.js",
+            id: "Node.js",
+            es: "Node.js",
+            fr: "Node.js",
+            de: "Node.js",
+            ja: "Node.js",
+            zh: "Node.js",
+            ar: "نود جي إس (Node.js)"
+        },
+        definition: {
+            en: "An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser.",
+            id: "Runtime environment JavaScript open-source lintas platform yang mengeksekusi kode JavaScript di luar browser web.",
+            es: "Un entorno de tiempo de ejecución de JavaScript multiplataforma y de código abierto que ejecuta código JavaScript fuera de un navegador web.",
+            fr: "Un environnement d'exécution JavaScript open source et multiplateforme qui exécute du code JavaScript en dehors d'un navigateur Web.",
+            de: "Eine Open-Source-, plattformübergreifende JavaScript-Laufzeitumgebung, die JavaScript-Code außerhalb eines Webbrowsers ausführt.",
+            ja: "ウェブブラウザの外部でJavaScriptコードを実行する、オープンソースでクロスプラットフォームのJavaScriptランタイム環境。",
+            zh: "一个开源、跨平台的 JavaScript 运行时环境，在 Web 浏览器之外执行 JavaScript 代码。",
+            ar: "بيئة تشغيل جافا سكريبت مفتوحة المصدر ومتعددة المنصات تقوم بتنفيذ كود جافا سكريبت خارج متصفح الويب."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
