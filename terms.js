@@ -1186,6 +1186,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "php",
+        term: {
+            en: "PHP",
+            id: "PHP",
+            es: "PHP",
+            fr: "PHP",
+            de: "PHP",
+            ja: "PHP",
+            zh: "PHP",
+            ar: "بي إتش بي (PHP)"
+        },
+        definition: {
+            en: "A popular general-purpose scripting language that is especially suited to web development.",
+            id: "Bahasa scripting serbaguna populer yang sangat cocok untuk pengembangan web.",
+            es: "Un lenguaje de programación de propósito general popular que es especialmente adecuado para el desarrollo web.",
+            fr: "Un langage de script polyvalent populaire qui est particulièrement adapté au développement Web.",
+            de: "Eine beliebte Allzweck-Scriptsprache, die sich besonders für die Webentwicklung eignet.",
+            ja: "ウェブ開発に特化した人気の汎用スクリプト言語。",
+            zh: "一种流行的通用脚本语言，特别适用于 Web 开发。",
+            ar: "لغة برمجة نصية عامة الغرض شائعة ومناسبة بشكل خاص لتطوير الويب."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
