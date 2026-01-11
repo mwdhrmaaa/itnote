@@ -1252,6 +1252,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "cpp",
+        term: {
+            en: "C++",
+            id: "C++",
+            es: "C++",
+            fr: "C++",
+            de: "C++",
+            ja: "C++",
+            zh: "C++",
+            ar: "سي بلس بلس (C++)"
+        },
+        definition: {
+            en: "A high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language.",
+            id: "Bahasa pemrograman tingkat tinggi, serbaguna yang dibuat oleh Bjarne Stroustrup sebagai perpanjangan dari bahasa pemrograman C.",
+            es: "Un lenguaje de programación de alto nivel y propósito general creado por Bjarne Stroustrup como una extensión del lenguaje de programación C.",
+            fr: "Un langage de programmation de haut niveau et polyvalent créé par Bjarne Stroustrup comme une extension du langage de programmation C.",
+            de: "Eine von Bjarne Stroustrup als Erweiterung der Programmiersprache C entwickelte, hochgradige Allzweck-Programmiersprache.",
+            ja: "C言語の拡張としてビャーヌ・ストラウストラップによって作成された、高レベル、汎用のプログラミング言語。",
+            zh: "由 Bjarne Stroustrup 创建的一门高级通用编程语言，是 C 语言的扩展。",
+            ar: "لغة برمجة للأغراض العامة عالية المستوى صممها بيارن ستروستروب كمد لـ لغة البرمجة C."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
