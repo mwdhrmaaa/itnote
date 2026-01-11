@@ -1648,6 +1648,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "cypress",
+        term: {
+            en: "Cypress",
+            id: "Cypress",
+            es: "Cypress",
+            fr: "Cypress",
+            de: "Cypress",
+            ja: "サイプレス (Cypress)",
+            zh: "Cypress",
+            ar: "سايبرس (Cypress)"
+        },
+        definition: {
+            en: "A next generation front end testing tool built for the modern web.",
+            id: "Alat pengujian front end generasi berikutnya yang dibuat untuk web modern.",
+            es: "Una herramienta de prueba de front-end de próxima generación diseñada para la web moderna.",
+            fr: "Un outil de test front-end de nouvelle génération conçu pour le Web moderne.",
+            de: "Ein Frontend-Testtool der nächsten Generation, das für das moderne Web entwickelt wurde.",
+            ja: "最新のウェブ向けに構築された、次世代のフロントエンドテストツール。",
+            zh: "为现代 Web 构建的下一代前端测试工具。",
+            ar: "أداة اختبار واجهة أمامية من الجيل القادم مصممة للويب الحديث."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
