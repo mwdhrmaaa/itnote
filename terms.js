@@ -1120,6 +1120,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "rust",
+        term: {
+            en: "Rust",
+            id: "Rust",
+            es: "Rust",
+            fr: "Rust",
+            de: "Rust",
+            ja: "ラスト (Rust)",
+            zh: "Rust",
+            ar: "رست (Rust)"
+        },
+        definition: {
+            en: "A multi-paradigm, high-level, general-purpose programming language that emphasizes performance, type safety, and concurrency.",
+            id: "Bahasa pemrograman serbaguna, tingkat tinggi, multi-paradigma yang menekankan kinerja, keamanan tipe, dan konkurensi.",
+            es: "Un lenguaje de programación de propósito general, de alto nivel y multiparadigma que enfatiza el rendimiento, la seguridad de tipos y la concurrencia.",
+            fr: "Un langage de programmation polyvalent, de haut niveau et multi-paradigme qui met l'accent sur les performances, la sécurité des types et la concurrence.",
+            de: "Eine multiparadigmatische Allzweck-Programmiersprache auf hohem Niveau, die Leistung, Typsicherheit und Nebenläufigkeit betont.",
+            ja: "パフォーマンス、型の安全性、並行性を強調する、マルチパラダイム、ハイレベル、汎用のプログラミング言語。",
+            zh: "一门强调性能、类型安全和并发性的多范式、高级、通用编程语言。",
+            ar: "لغة برمجة للأغراض العامة، عالية المستوى، متعددة النماذج تؤكد على الأداء وأمان النوع والتزامن."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
