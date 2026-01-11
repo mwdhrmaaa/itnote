@@ -262,6 +262,237 @@ const itTerms = [
             zh: "数据管理",
             ar: "إدارة البيانات"
         }
+    },
+    {
+        id: "docker",
+        term: {
+            en: "Docker",
+            id: "Docker",
+            es: "Docker",
+            fr: "Docker",
+            de: "Docker",
+            ja: "ドッカー",
+            zh: "Docker",
+            ar: "دوكر (Docker)"
+        },
+        definition: {
+            en: "A platform for developing, shipping, and running applications in containers.",
+            id: "Platform untuk mengembangkan, mengirim, dan menjalankan aplikasi dalam kontainer.",
+            es: "Una plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores.",
+            fr: "Une plateforme pour développer, expédier et exécuter des applications dans des conteneurs.",
+            de: "Eine Plattform zum Entwickeln, Ausliefern und Ausführen von Anwendungen in Containern.",
+            ja: "コンテナ内でアプリケーションを開発、配信、実行するためのプラットフォーム。",
+            zh: "一个用于在容器中开发、交付和运行应用程序的平台。",
+            ar: "منصة لتطوير وشحن وتشغيل التطبيقات في حاويات."
+        },
+        category: {
+            en: "DevOps",
+            id: "DevOps",
+            es: "DevOps",
+            fr: "DevOps",
+            de: "DevOps",
+            ja: "デブオプス",
+            zh: "开发运维",
+            ar: "ديف أوبس (DevOps)"
+        }
+    },
+    {
+        id: "kubernetes",
+        term: {
+            en: "Kubernetes",
+            id: "Kubernetes",
+            es: "Kubernetes",
+            fr: "Kubernetes",
+            de: "Kubernetes",
+            ja: "クバネティス",
+            zh: "Kubernetes",
+            ar: "كوبرنيتيس (Kubernetes)"
+        },
+        definition: {
+            en: "An open-source system for automating deployment, scaling, and management of containerized applications.",
+            id: "Sistem sumber terbuka untuk mengotomatisasi penerapan, penskalaan, dan manajemen aplikasi berbasis kontainer.",
+            es: "Un sistema de código abierto para automatizar la implementación, el escalado y la gestión de aplicaciones en contenedores.",
+            fr: "Un système open source pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.",
+            de: "Ein Open-Source-System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen.",
+            ja: "コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースシステム。",
+            zh: "用于自动化容器化应用程序的部署、扩展和管理的开源系统。",
+            ar: "نظام مفتوح المصدر لأتمتة نشر وتوسيع وإدارة التطبيقات المعبأة في حاويات."
+        },
+        category: {
+            en: "DevOps",
+            id: "DevOps",
+            es: "DevOps",
+            fr: "DevOps",
+            de: "DevOps",
+            ja: "デブオプス",
+            zh: "开发运维",
+            ar: "ديف أوبس (DevOps)"
+        }
+    },
+    {
+        id: "git",
+        term: {
+            en: "Git",
+            id: "Git",
+            es: "Git",
+            fr: "Git",
+            de: "Git",
+            ja: "ギット",
+            zh: "Git",
+            ar: "جيت (Git)"
+        },
+        definition: {
+            en: "A free and open source distributed version control system designed to handle everything from small to very large projects.",
+            id: "Sistem kontrol versi terdistribusi gratis dan sumber terbuka yang dirancang untuk menangani segalanya mulai dari proyek kecil hingga sangat besar.",
+            es: "Un sistema de código abierto para automatizar la implementación, el escalado y la gestión de aplicaciones en contenedores.",
+            fr: "Un système open source pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.",
+            de: "Ein kostenloses und Open-Source-verteiltes Versionskontrollsystem, das für alles entwickelt wurde, von kleinen bis hin zu sehr großen Projekten.",
+            ja: "小規模から非常に大規模なプロジェクトまで、あらゆるものを処理できるように設計された、無料のオープンソース分散型バージョン管理システム。",
+            zh: "一个免费且开源的分布式版本控制系统，旨在处理从小到大的所有项目。",
+            ar: "نظام تحكم في الإصدارات موزع ومفتوح المصدر مصمم للتعامل مع كل شيء من المشاريع الصغيرة إلى الكبيرة جدًا."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
+    },
+    {
+        id: "sql",
+        term: {
+            en: "SQL",
+            id: "SQL",
+            es: "SQL",
+            fr: "SQL",
+            de: "SQL",
+            ja: "SQL",
+            zh: "SQL",
+            ar: "لغة الاستعلام المهيكلة (SQL)"
+        },
+        definition: {
+            en: "Structured Query Language. A standard language for managing data held in a relational database management system.",
+            id: "Bahasa kueri terstruktur. Bahasa standar untuk mengelola data yang disimpan dalam sistem manajemen database relasional.",
+            es: "Lenguaje de consulta estructurado. Un lenguaje estándar para administrar datos contenidos en un sistema de administración de bases de datos relacionales.",
+            fr: "Langage de requête structuré. Un langage standard pour gérer les données conservées dans un système de gestion de base de données relationnelle.",
+            de: "Strukturierte Abfragesprache. Eine Standardsprache für die Verwaltung von Daten in einem relationalen Datenbankmanagementsystem.",
+            ja: "構造化クエリ言語。リレーショナルデータベース管理システムで保持されるデータを管理するための標準言語。",
+            zh: "结构化查询语言。用于管理关系数据库管理系统中保存的数据的标准语言。",
+            ar: "لغة الاستعلام المهيكلة. لغة قياسية لإدارة البيانات المحفوظة في نظام إدارة قواعد البيانات العلائقية."
+        },
+        category: {
+            en: "Data Management",
+            id: "Manajemen Data",
+            es: "Gestión de Datos",
+            fr: "Gestion des données",
+            de: "Datenmanagement",
+            ja: "データ管理",
+            zh: "数据管理",
+            ar: "إدارة البيانات"
+        }
+    },
+    {
+        id: "nosql",
+        term: {
+            en: "NoSQL",
+            id: "NoSQL",
+            es: "NoSQL",
+            fr: "NoSQL",
+            de: "NoSQL",
+            ja: "NoSQL",
+            zh: "NoSQL",
+            ar: "NoSQL"
+        },
+        definition: {
+            en: "A non-relational database that provides a mechanism for storage and retrieval of data modeled in means other than the tabular relations used in relational databases.",
+            id: "Database non-relasional yang menyediakan mekanisme penyimpanan dan pengambilan data yang dimodelkan dengan cara selain relasi tabular yang digunakan dalam database relasional.",
+            es: "Una base de datos no relacional que proporciona un mecanismo para el almacenamiento y la recuperación de datos modelados por otros medios que no sean las relaciones tabulares utilizadas en las bases de datos relacionales.",
+            fr: "Une base de données non relationnelle qui fournit un mécanisme de stockage et de récupération de données modélisées par des moyens autres que les relations tabulares utilisées dans les bases de données relationnelles.",
+            de: "Eine nicht-relationale Datenbank, die einen Mechanismus für die Speicherung und den Abruf von Daten bereitstellt, die auf andere Weise als die in relationalen Datenbanken verwendeten tabellarischen Beziehungen modelliert sind.",
+            ja: "リレーショナルデータベースで使用されるテーブル関係以外の手段でモデル化されたデータの保存と取得のためのメカニズムを提供する非リレーショナルデータベース。",
+            zh: "一种非关系数据库，它提供了一种存储和检索数据建模机制，而不是关系数据库中使用的表格关系。",
+            ar: "قاعدة بيانات غير علائقية توفر آلية لتخزين واسترجاع البيانات المصممة بطرق أخرى غير العلاقات الجدولية المستخدمة في قواعد البيانات العلائقية."
+        },
+        category: {
+            en: "Data Management",
+            id: "Manajemen Data",
+            es: "Gestión de Datos",
+            fr: "Gestion des données",
+            de: "Datenmanagement",
+            ja: "データ管理",
+            zh: "数据管理",
+            ar: "إدارة البيانات"
+        }
+    },
+    {
+        id: "microservices",
+        term: {
+            en: "Microservices",
+            id: "Mikrolayanan",
+            es: "Microservicios",
+            fr: "Microservices",
+            de: "Microservices",
+            ja: "マイクロサービス",
+            zh: "微服务",
+            ar: "الخدمات المصغرة (Microservices)"
+        },
+        definition: {
+            en: "An architectural style that structures an application as a collection of services that are highly maintainable, testable, and loosely coupled.",
+            id: "Gaya arsitektur yang menstrukturkan aplikasi sebagai kumpulan layanan yang sangat dapat dipelihara, diuji, dan digabungkan secara longgar.",
+            es: "Un estilo arquitectónico que estructura una aplicación como una colección de servicios que son altamente mantenibles, comprobables y débilmente acoplados.",
+            fr: "Un style architectural qui structure une application comme une collection de services hautement maintenables, testables et lâchement couplés.",
+            de: "Ein Architekturstil, der eine Anwendung als eine Sammlung von Diensten strukturiert, die hochgradig wartbar, testbar und lose gekoppelt sind.",
+            ja: "アプリケーションを、高度に保守可能、テスト可能、かつ疎結合なサービスの集合として構築するアーキテクチャスタイル。",
+            zh: "一种架构风格，将应用程序构建为一组高度可维护、可测试且松散耦合的服务集合。",
+            ar: "نمط معماري ينظم التطبيق كمجموعة من الخدمات التي يمكن صيانتها واختبارها بدرجة عالية وهي مترابطة بشكل فضفاض."
+        },
+        category: {
+            en: "Architecture",
+            id: "Arsitektur",
+            es: "Arquitectura",
+            fr: "Architecture",
+            de: "Architektur",
+            ja: "アーキテクチャ",
+            zh: "架构",
+            ar: "المعمارية"
+        }
+    },
+    {
+        id: "serverless",
+        term: {
+            en: "Serverless",
+            id: "Nirserver",
+            es: "Serverless",
+            fr: "Serverless",
+            de: "Serverless",
+            ja: "サーバーレス",
+            zh: "无服务器",
+            ar: "بدون خادم (Serverless)"
+        },
+        definition: {
+            en: "A cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers.",
+            id: "Model eksekusi komputasi awan di mana penyedia layanan cloud secara dinamis mengelola alokasi dan penyediaan server.",
+            es: "Un modelo de ejecución de computación en la nube donde el proveedor de la nube gestiona dinámicamente la asignación y el aprovisionamiento de servidores.",
+            fr: "Un modèle d'exécution de cloud computing où le fournisseur de cloud gère dynamiquement l'allocation et le provisionnement des serveurs.",
+            de: "Ein Cloud-Computing-Ausführungsmodell, bei dem der Cloud-Anbieter die Zuweisung und Bereitstellung von Servern dynamisch verwaltet.",
+            ja: "クラウドプロバイダーがサーバーの割り当てとプロビジョニングを動的に管理するクラウドコンピューティングの実行モデル。",
+            zh: "一种云计算执行模型，云提供商动态管理服务器的分配和配置。",
+            ar: "نموذج تنفيذ الحوسبة السحابية حيث يدير مزود السحابة ديناميكيًا تخصيص وتوفير الخوادم."
+        },
+        category: {
+            en: "Infrastructure",
+            id: "Infrastruktur",
+            es: "Infraestructura",
+            fr: "Infrastructure",
+            de: "Infrastruktur",
+            ja: "インフラストラクチャ",
+            zh: "基础设施",
+            ar: "البنية التحتية"
+        }
     }
 ];
 
