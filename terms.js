@@ -1021,6 +1021,39 @@ const itTerms = [
             zh: "移动开发",
             ar: "تطوير تطبيقات الجوال"
         }
+    },
+    {
+        id: "swift",
+        term: {
+            en: "Swift",
+            id: "Swift",
+            es: "Swift",
+            fr: "Swift",
+            de: "Swift",
+            ja: "スウィフト (Swift)",
+            zh: "Swift",
+            ar: "سويفت (Swift)"
+        },
+        definition: {
+            en: "A general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.",
+            id: "Bahasa pemrograman kompilasi serbaguna, multi-paradigma, yang dikembangkan oleh Apple Inc. dan komunitas open-source.",
+            es: "Un lenguaje de programación compilado, de propósito general y multiparadigma desarrollado por Apple Inc. y la comunidad de código abierto.",
+            fr: "Un langage de programmation compilé, polyvalent et multi-paradigme développé par Apple Inc. et la communauté open source.",
+            de: "Eine von Apple Inc. und der Open-Source-Community entwickelte, universelle, multiparadigmatische, kompilierte Programmiersprache.",
+            ja: "Apple Inc.とオープンソースコミュニティによって開発された、汎用、マルチパラダイム、コンパイル済みのプログラミング言語。",
+            zh: "由 Apple Inc. 和开源社区开发的一门通用的、多种范式的、编译型编程语言。",
+            ar: "لغة برمجة مجمعة، عامة الغرض، متعددة النماذج، طورتها شركة Apple Inc. والمجتمع مفتوح المصدر."
+        },
+        category: {
+            en: "Mobile Development",
+            id: "Pengembangan Mobile",
+            es: "Desarrollo Móvil",
+            fr: "Développement Mobile",
+            de: "Mobilentwicklung",
+            ja: "モバイル開発",
+            zh: "移动开发",
+            ar: "تطوير تطبيقات الجوال"
+        }
     }
 ];
 
