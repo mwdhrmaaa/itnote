@@ -1615,6 +1615,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "jest",
+        term: {
+            en: "Jest",
+            id: "Jest",
+            es: "Jest",
+            fr: "Jest",
+            de: "Jest",
+            ja: "ジェスト (Jest)",
+            zh: "Jest",
+            ar: "جيست (Jest)"
+        },
+        definition: {
+            en: "A delightful JavaScript Testing Framework with a focus on simplicity.",
+            id: "Framework Pengujian JavaScript yang menyenangkan dengan fokus pada kesederhanaan.",
+            es: "Un delicioso marco de pruebas de JavaScript con un enfoque en la simplicidad.",
+            fr: "Un délicieux framework de test JavaScript axé sur la simplicité.",
+            de: "Ein entzückendes JavaScript-Test-Framework mit Fokus auf Einfachheit.",
+            ja: "シンプルさに焦点を当てた、楽しいJavaScriptテストフレームワーク。",
+            zh: "一个令人愉快的 JavaScript 测试框架，专注于简单性。",
+            ar: "إطار عمل اختبار جافا سكريبت مبهج مع التركيز على البساطة."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
