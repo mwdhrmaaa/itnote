@@ -1351,6 +1351,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "redux",
+        term: {
+            en: "Redux",
+            id: "Redux",
+            es: "Redux",
+            fr: "Redux",
+            de: "Redux",
+            ja: "リダックス (Redux)",
+            zh: "Redux",
+            ar: "ريدوكس (Redux)"
+        },
+        definition: {
+            en: "A predictable state container for JavaScript apps, often used with libraries like React or Vue.",
+            id: "Wadah status yang dapat diprediksi untuk aplikasi JavaScript, sering digunakan dengan library seperti React atau Vue.",
+            es: "Un contenedor de estado predecible para aplicaciones de JavaScript, a menudo utilizado con bibliotecas como React o Vue.",
+            fr: "Un conteneur d'état prévisible pour les applications JavaScript, souvent utilisé avec des bibliothèques comme React ou Vue.",
+            de: "Ein vorhersagbarer Zustandscontainer für JavaScript-Apps, der oft mit Bibliotheken wie React oder Vue verwendet wird.",
+            ja: "JavaScriptアプリ用の予測可能な状態コンテナで、ReactやVueなどのライブラリと一緒に使用されることが多い。",
+            zh: "一个用于 JavaScript 应用程序的可预测状态容器，通常与 React 或 Vue 等库一起使用。",
+            ar: "حاوية حالة يمكن التنبؤ بها لتطبيقات جافا سكريبت، وغالبًا ما تستخدم مع مكتبات مثل React أو Vue."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
