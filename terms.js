@@ -1516,6 +1516,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "postcss",
+        term: {
+            en: "PostCSS",
+            id: "PostCSS",
+            es: "PostCSS",
+            fr: "PostCSS",
+            de: "PostCSS",
+            ja: "ポストCSS (PostCSS)",
+            zh: "PostCSS",
+            ar: "بوست CSS (PostCSS)"
+        },
+        definition: {
+            en: "A tool for transforming CSS with JavaScript plugins, used for linting, autoprefixing, and more.",
+            id: "Alat untuk mengubah CSS dengan plugin JavaScript, digunakan untuk linting, autoprefixing, dan banyak lagi.",
+            es: "Una herramienta para transformar CSS con complementos de JavaScript, utilizada para linting, autoprefixing y más.",
+            fr: "Un outil pour transformer le CSS avec des plugins JavaScript, utilisé pour le linting, l'autoprefixing, etc.",
+            de: "Ein Tool zur Transformation von CSS mit JavaScript-Plugins, das für Linting, Autoprefixing und mehr verwendet wird.",
+            ja: "JavaScriptプラグインを使用してCSSを変換するためのツールで、リンティング、オートプレフィックスなどに使用されます。",
+            zh: "一个使用 JavaScript 插件转换 CSS 的工具，用于 linting、autoprefixing 等。",
+            ar: "أداة لتحويل CSS باستخدام إضافات جافا سكريبت، تُستخدم لفحص الكود (linting) وإضافة البادئات التلقائية (autoprefixing) والمزيد."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
