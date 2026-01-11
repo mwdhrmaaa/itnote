@@ -889,6 +889,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "springboot",
+        term: {
+            en: "Spring Boot",
+            id: "Spring Boot",
+            es: "Spring Boot",
+            fr: "Spring Boot",
+            de: "Spring Boot",
+            ja: "Spring Boot",
+            zh: "Spring Boot",
+            ar: "سبرينغ بوت (Spring Boot)"
+        },
+        definition: {
+            en: "An open-source Java-based framework used to create a microservice based on the Spring Framework.",
+            id: "Framework berbasis Java open-source yang digunakan untuk membuat mikrolayanan berbasis Spring Framework.",
+            es: "Un marco basado en Java de código abierto utilizado para crear un microservicio basado en Spring Framework.",
+            fr: "Un framework basé sur Java open source utilisé pour créer un microservice basé sur le framework Spring.",
+            de: "Ein Open-Source-Java-basiertes Framework, das zur Erstellung von Mikroservices auf Basis des Spring-Frameworks verwendet wird.",
+            ja: "Spring Frameworkに基づいたマイクロサービスを作成するために使用される、オープンソースのJavaベースのフレームワーク。",
+            zh: "一个开源的基于 Java 的框架，用于基于 Spring 框架创建微服务。",
+            ar: "إطار عمل مفتوح المصدر يعتمد على Java ويستخدم لإنشاء خدمة مصغرة تعتمد على إطار عمل Spring."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
