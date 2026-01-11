@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Note - Discover IT Terms</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>IT Note</h1>
+            <p>Daftar istilah IT untuk membantu perjalanan belajar kamu.</p>
+        </header>
+
+        <div class="search-container">
+            <div class="search-wrapper">
+                <i data-lucide="search" class="search-icon"></i>
+                <input type="text" id="search-input" placeholder="Cari istilah IT (misal: API, Docker, Cloud)...">
+            </div>
+        </div>
+
+        <div id="terms-grid" class="terms-grid">
+            <!-- Terms will be rendered here by JS -->
+        </div>
+    </div>
+
+    <!-- Modal for details -->
+    <div id="modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-modal" class="close-modal">&times;</button>
+            <div id="modal-category" class="modal-category"></div>
+            <h2 id="modal-title" class="modal-title"></h2>
+            <p id="modal-definition" class="modal-definition"></p>
+        </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+    </script>
+</body>
+</html>
