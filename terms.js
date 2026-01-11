@@ -1846,6 +1846,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "deno",
+        term: {
+            en: "Deno",
+            id: "Deno",
+            es: "Deno",
+            fr: "Deno",
+            de: "Deno",
+            ja: "デノ (Deno)",
+            zh: "Deno",
+            ar: "دينو (Deno)"
+        },
+        definition: {
+            en: "A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.",
+            id: "Runtime aman untuk JavaScript dan TypeScript yang menggunakan V8 dan dibangun dalam Rust.",
+            es: "Un entorno de ejecución seguro para JavaScript y TypeScript que usa V8 y está integrado en Rust.",
+            fr: "Un moteur d'exécution sécurisé pour JavaScript et TypeScript qui utilise V8 et est construit en Rust.",
+            de: "Eine sichere Laufzeitumgebung für JavaScript und TypeScript, die V8 verwendet und in Rust entwickelt wurde.",
+            ja: "V8を使用し、Rustで構築された、JavaScriptおよびTypeScript用の安全なランタイム。",
+            zh: "一个用于 JavaScript 和 TypeScript 的安全运行时，使用 V8 并基于 Rust 构建。",
+            ar: "بيئة تشغيل آمنة لجافا سكريبت وتايب سكريبت تستخدم V8 ومبنية بلغة Rust."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
