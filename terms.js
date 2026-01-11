@@ -1978,6 +1978,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "cicd",
+        term: {
+            en: "CI/CD",
+            id: "CI/CD",
+            es: "CI/CD",
+            fr: "CI/CD",
+            de: "CI/CD",
+            ja: "CI/CD",
+            zh: "CI/CD",
+            ar: "CI/CD"
+        },
+        definition: {
+            en: "Continuous Integration and Continuous Deployment. A method to frequently deliver apps to customers by introducing automation into the stages of app development.",
+            id: "Integrasi Berkelanjutan dan Penerapan Berkelanjutan. Metode untuk sering mengirimkan aplikasi ke pelanggan dengan memperkenalkan otomatisasi ke dalam tahap pengembangan aplikasi.",
+            es: "Integración continua y despliegue continuo. Un método para entregar aplicaciones con frecuencia a los clientes mediante la introducción de automatización en las etapas del desarrollo de aplicaciones.",
+            fr: "Intégration continue et déploiement continu. Une méthode pour livrer fréquemment des applications aux clients en introduisant l'automatisation dans les étapes de développement des applications.",
+            de: "Continuous Integration und Continuous Deployment. Eine Methode zur häufigen Bereitstellung von Apps für Kunden durch Einführung von Automatisierung in die Phasen der App-Entwicklung.",
+            ja: "継続的インテグレーションと継続的デプロイ。アプリ開発の段階に自動化を導入することで、アプリを頻繁に顧客に提供する方法。",
+            zh: "持续集成和持续部署。通过在应用程序开发阶段引入自动化，频繁向客户交付应用程序的方法。",
+            ar: "التكامل المستمر والنشر المستمر. طريقة لتقديم التطبيقات بشكل متكرر للعملاء من خلال إدخال الأتمتة في مراحل تطوير التطبيقات."
+        },
+        category: {
+            en: "DevOps",
+            id: "DevOps",
+            es: "DevOps",
+            fr: "DevOps",
+            de: "DevOps",
+            ja: "デブオプス",
+            zh: "开发运维",
+            ar: "ديف أوبس (DevOps)"
+        }
     }
 ];
 
