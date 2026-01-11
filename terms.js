@@ -1318,6 +1318,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "graphql",
+        term: {
+            en: "GraphQL",
+            id: "GraphQL",
+            es: "GraphQL",
+            fr: "GraphQL",
+            de: "GraphQL",
+            ja: "GraphQL",
+            zh: "GraphQL",
+            ar: "غراف كيو إل (GraphQL)"
+        },
+        definition: {
+            en: "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
+            id: "Bahasa kueri untuk API dan runtime untuk memenuhi kueri tersebut dengan data Anda yang sudah ada.",
+            es: "Un lenguaje de consulta para las API y un tiempo de ejecución para cumplir con esas consultas con sus datos existentes.",
+            fr: "Un langage de requête pour les API et un moteur d'exécution pour répondre à ces requêtes avec vos données existantes.",
+            de: "Eine Abfragesprache für APIs und eine Laufzeitumgebung zur Erfüllung dieser Abfragen mit Ihren vorhandenen Daten.",
+            ja: "API用のクエリ言語であり、既存のデータを使用してそれらのクエリを実行するためのランタイム。",
+            zh: "一种用于 API 的查询语言，以及一个用于使用现有数据完成这些查询的运行时。",
+            ar: "لغة استعلام لواجهات برمجة التطبيقات ووقت تشغيل لتلبية تلك الاستعلامات ببياناتك الحالية."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
