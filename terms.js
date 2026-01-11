@@ -1153,6 +1153,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "typescript",
+        term: {
+            en: "TypeScript",
+            id: "TypeScript",
+            es: "TypeScript",
+            fr: "TypeScript",
+            de: "TypeScript",
+            ja: "タイプスクリプト (TypeScript)",
+            zh: "TypeScript",
+            ar: "تايب سكريبت (TypeScript)"
+        },
+        definition: {
+            en: "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+            id: "Bahasa pemrograman dengan pengetikan kuat yang dibangun di atas JavaScript, memberikan perkakas yang lebih baik pada skala apa pun.",
+            es: "Un lenguaje de programación fuertemente tipado que se basa en JavaScript, lo que le brinda mejores herramientas a cualquier escala.",
+            fr: "Un langage de programmation fortement typé qui s'appuie sur JavaScript, vous offrant de meilleurs outils à n'importe quelle échelle.",
+            de: "Eine streng typisierte Programmier sprache, die auf JavaScript aufbaut und Ihnen bessere Tools in jedem Maßstab bietet.",
+            ja: "JavaScriptをベースにした強力な型付けのプログラミング言語で、あらゆる規模でより優れたツールを提供します。",
+            zh: "一门基于 JavaScript 的强类型编程语言，可为您提供任何规模的更好工具。",
+            ar: "لغة برمجة مكتوبة بقوة تعتمد على JavaScript، مما يوفر لك أدوات أفضل على أي نطاق."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
