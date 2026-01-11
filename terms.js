@@ -658,6 +658,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "vue",
+        term: {
+            en: "Vue.js",
+            id: "Vue.js",
+            es: "Vue.js",
+            fr: "Vue.js",
+            de: "Vue.js",
+            ja: "ビュー (Vue.js)",
+            zh: "Vue.js",
+            ar: "فيو (Vue.js)"
+        },
+        definition: {
+            en: "A progressive JavaScript framework for building user interfaces and single-page applications.",
+            id: "Framework JavaScript progresif untuk membangun antarmuka pengguna dan aplikasi satu halaman.",
+            es: "Un marco de JavaScript progresivo para crear interfaces de usuario y aplicaciones de una sola página.",
+            fr: "Un framework JavaScript progressif pour créer des interfaces utilisateur et des applications d'une seule page.",
+            de: "Ein progressives JavaScript-Framework zum Erstellen von Benutzeroberflächen und Einzelseitenanwendungen.",
+            ja: "ユーザーインターフェースやシングルページアプリケーションを構築するためのプログレッシブJavaScriptフレームワーク。",
+            zh: "一个用于构建用户界面和单页应用程序的渐进式 JavaScript 框架。",
+            ar: "إطار عمل جافا سكريبت تدريجي لبناء واجهات المستخدم وتطبيقات الصفحة الواحدة."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
