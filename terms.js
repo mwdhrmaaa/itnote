@@ -625,7 +625,7 @@ const itTerms = [
             zh: "方法论",
             ar: "المنهجية"
         }
-    }
+    },
     {
         id: "react",
         term: {
