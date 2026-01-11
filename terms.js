@@ -1780,6 +1780,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "pnpm",
+        term: {
+            en: "Pnpm",
+            id: "Pnpm",
+            es: "Pnpm",
+            fr: "Pnpm",
+            de: "Pnpm",
+            ja: "Pnpm",
+            zh: "Pnpm",
+            ar: "Pnpm"
+        },
+        definition: {
+            en: "Fast, disk space efficient package manager for JavaScript.",
+            id: "Manajer paket yang cepat dan efisien ruang disk untuk JavaScript.",
+            es: "Administrador de paquetes rápido y eficiente en espacio de disco para JavaScript.",
+            fr: "Gestionnaire de paquets rapide et efficace en termes d'espace disque pour JavaScript.",
+            de: "Schneller, speichereffizienter Paketmanager für JavaScript.",
+            ja: "JavaScript用の高速でディスクスペース効率の良いパッケージマネージャー。",
+            zh: "快速、磁盘空间利用率高的 JavaScript 包管理器。",
+            ar: "مدير حزم سريع وفعال في مساحة القرص لجافا سكريبت."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
