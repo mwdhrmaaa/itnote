@@ -626,6 +626,39 @@ const itTerms = [
             ar: "المنهجية"
         }
     }
+    {
+        id: "react",
+        term: {
+            en: "React",
+            id: "React",
+            es: "React",
+            fr: "React",
+            de: "React",
+            ja: "リアクト (React)",
+            zh: "React",
+            ar: "رياكت (React)"
+        },
+        definition: {
+            en: "A popular JavaScript library for building user interfaces, particularly single-page applications.",
+            id: "Library JavaScript populer untuk membangun antarmuka pengguna, terutama aplikasi satu halaman (SPA).",
+            es: "Una biblioteca de JavaScript popular para crear interfaces de usuario, especialmente aplicaciones de una sola página.",
+            fr: "Une bibliothèque JavaScript populaire pour créer des interfaces utilisateur, en particulier des applications d'une seule page.",
+            de: "Eine beliebte JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, insbesondere für Einzelseitenanwendungen.",
+            ja: "ユーザーインターフェース、特にシングルページアプリケーションを構築するための人気のJavaScriptライブラリ。",
+            zh: "一个用于构建用户界面的流行 JavaScript 库，特别是单页应用程序。",
+            ar: "مكتبة جافا سكريبت شهيرة لبناء واجهات المستخدم، وخاصة تطبيقات الصفحة الواحدة."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
+    }
 ];
 
 export const uiLabels = {
