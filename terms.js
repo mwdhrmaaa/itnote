@@ -1483,6 +1483,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "sass",
+        term: {
+            en: "Sass",
+            id: "Sass",
+            es: "Sass",
+            fr: "Sass",
+            de: "Sass",
+            ja: "サス (Sass)",
+            zh: "Sass",
+            ar: "ساس (Sass)"
+        },
+        definition: {
+            en: "A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).",
+            id: "Bahasa scripting preprocessor yang ditafsirkan atau dikompilasi menjadi Cascading Style Sheets (CSS).",
+            es: "Un lenguaje de programación preprocesador que se interpreta o compila en hojas de estilo en cascada (CSS).",
+            fr: "Un langage de script préprocesseur qui est interprété ou compilé en feuilles de style en cascade (CSS).",
+            de: "Eine Präprozessor-Scriptsprache, die in Cascading Style Sheets (CSS) interpretiert oder kompiliert wird.",
+            ja: "Cascading Style Sheets（CSS）に解釈またはコンパイルされるプリプロセッサスクリプト言語。",
+            zh: "一种预处理器脚本语言，可解释或编译为级联样式表 (CSS)。",
+            ar: "لغة برمجة نصية للمعالج المسبق يتم تفسيرها أو تجميعها في صفحات الأنماط المتتالية (CSS)."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
