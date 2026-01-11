@@ -1087,6 +1087,39 @@ const itTerms = [
             zh: "移动开发",
             ar: "تطوير تطبيقات الجوال"
         }
+    },
+    {
+        id: "go",
+        term: {
+            en: "Go (Golang)",
+            id: "Go (Golang)",
+            es: "Go (Golang)",
+            fr: "Go (Golang)",
+            de: "Go (Golang)",
+            ja: "Go (Golang)",
+            zh: "Go (Golang)",
+            ar: "جو (Go)"
+        },
+        definition: {
+            en: "A statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.",
+            id: "Bahasa pemrograman kompilasi, diketik secara statis yang dirancang di Google oleh Robert Griesemer, Rob Pike, dan Ken Thompson.",
+            es: "Un lenguaje de programación compilado y estáticamente tipado diseñado en Google por Robert Griesemer, Rob Pike y Ken Thompson.",
+            fr: "Un langage de programmation compilé et à typage statique conçu chez Google par Robert Griesemer, Rob Pike et Ken Thompson.",
+            de: "Eine statisch typisierte, kompilierte Programmiersprache, die bei Google von Robert Griesemer, Rob Pike und Ken Thompson entwickelt wurde.",
+            ja: "ロバート・グリースマー、ロブ・パイク、ケン・トンプソンによってGoogleで設計された、静的型付けのコンパイル済みプログラミング言語。",
+            zh: "一门由 Google 的 Robert Griesemer、Rob Pike 和 Ken Thompson 设计的静态类型、编译型编程语言。",
+            ar: "لغة برمجة مجمعة ومكتوبة بشكل ثابت صممها روبرت جريسيمير وروب بايك وكين طومسون في Google."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
