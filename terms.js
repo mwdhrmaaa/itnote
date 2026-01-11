@@ -1450,6 +1450,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "babel",
+        term: {
+            en: "Babel",
+            id: "Babel",
+            es: "Babel",
+            fr: "Babel",
+            de: "Babel",
+            ja: "バベル (Babel)",
+            zh: "Babel",
+            ar: "بابل (Babel)"
+        },
+        definition: {
+            en: "A toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript.",
+            id: "Toolchain yang terutama digunakan untuk mengonversi kode ECMAScript 2015+ menjadi versi JavaScript yang kompatibel ke belakang.",
+            es: "Una cadena de herramientas que se utiliza principalmente para convertir el código ECMAScript 2015+ en una versión de JavaScript compatible con versiones anteriores.",
+            fr: "Une chaîne d'outils principalement utilisée pour convertir le code ECMAScript 2015+ en une version de JavaScript rétrocompatible.",
+            de: "Eine Toolchain, die hauptsächlich dazu dient, ECMAScript 2015+-Code in eine abwärtskompatible Version von JavaScript umzuwandeln.",
+            ja: "主にECMAScript 2015+コードを、後方互換性のあるバージョンのJavaScriptに変換するために使用されるツールチェーン。",
+            zh: "一个工具链，主要用于将 ECMAScript 2015+ 代码转换为向后兼容版本的 JavaScript。",
+            ar: "سلسلة أدوات تُستخدم بشكل أساسي لتحويل كود ECMAScript 2015+ إلى إصدار متوافق مع الإصدارات السابقة من JavaScript."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
