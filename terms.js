@@ -691,6 +691,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "angular",
+        term: {
+            en: "Angular",
+            id: "Angular",
+            es: "Angular",
+            fr: "Angular",
+            de: "Angular",
+            ja: "アンギュラー (Angular)",
+            zh: "Angular",
+            ar: "أنجولار (Angular)"
+        },
+        definition: {
+            en: "A platform and framework for building single-page client applications using HTML and TypeScript.",
+            id: "Platform dan framework untuk membangun aplikasi klien satu halaman menggunakan HTML dan TypeScript.",
+            es: "Una plataforma y marco para crear aplicaciones de cliente de una sola página utilizando HTML y TypeScript.",
+            fr: "Une plateforme et un framework pour créer des applications clientes d'une seule page à l'aide de HTML et TypeScript.",
+            de: "Eine Plattform und ein Framework zum Erstellen von Einzelseiten-Clientanwendungen mit HTML und TypeScript.",
+            ja: "HTMLとTypeScriptを使用してシングルページクライアントアプリケーションを構築するためのプラットフォームおよびフレームワーク。",
+            zh: "一个使用 HTML 和 TypeScript 构建单页客户端应用程序的平台和框架。",
+            ar: "منصة وإطار عمل لبناء تطبيقات عميل الصفحة الواحدة باستخدام HTML و TypeScript."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
