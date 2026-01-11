@@ -757,6 +757,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "express",
+        term: {
+            en: "Express.js",
+            id: "Express.js",
+            es: "Express.js",
+            fr: "Express.js",
+            de: "Express.js",
+            ja: "Express.js",
+            zh: "Express.js",
+            ar: "إكسبريس جي إس (Express.js)"
+        },
+        definition: {
+            en: "A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+            id: "Framework aplikasi web Node.js yang minimal dan fleksibel yang menyediakan serangkaian fitur kuat untuk aplikasi web dan seluler.",
+            es: "Un marco de aplicación web Node.js mínimo y flexible que proporciona un conjunto sólido de características para aplicaciones web y móviles.",
+            fr: "Un framework d'application Web Node.js minimal et flexible qui fournit un ensemble robuste de fonctionnalités pour les applications Web et mobiles.",
+            de: "Ein minimales und flexibles Node.js-Webanwendungs-Framework, das eine robusten Satz von Funktionen für Web- und Mobilanwendungen bereitstellt.",
+            ja: "ウェブおよびモバイルアプリケーション向けの堅牢な機能セットを提供する、最小限で柔軟なNode.jsウェブアプリケーションフレームワーク。",
+            zh: "一个极简且灵活的 Node.js Web 应用程序框架，为 Web 和移动应用程序提供了一套强大的功能。",
+            ar: "إطار عمل لتطبيقات الويب نود جي إس بسيط ومرن يوفر مجموعة قوية من الميزات لتطبيقات الويب والجوال."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
