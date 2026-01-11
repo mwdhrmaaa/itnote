@@ -20,9 +20,9 @@ body {
     color: var(--text-main);
     min-height: 100vh;
     overflow-x: hidden;
-    background-image: 
-        radial-gradient(circle at 20% 20%, rgba(99, 102, 241, 0.15) 0%, transparent 40%),
-        radial-gradient(circle at 80% 80%, rgba(139, 92, 246, 0.15) 0%, transparent 40%);
+    /* More minimalist background */
+    background-image:
+        radial-gradient(circle at 50% -20%, rgba(99, 102, 241, 0.1) 0%, transparent 50%);
 }
 
 .lang-selector {
@@ -103,24 +103,22 @@ body.rtl .term-card::before {
 }
 
 header {
-    text-align: center;
-    margin-bottom: 4rem;
+    text-align: left; /* Minimalist alignment */
+    margin-bottom: 3rem;
     animation: fadeInDown 0.8s ease-out;
 }
 
 header h1 {
-    font-size: 3.5rem;
-    font-weight: 800;
-    background: linear-gradient(to right, #818cf8, #c084fc);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 1rem;
+    font-size: 2.5rem; /* Smaller, cleaner */
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.5rem;
 }
 
 header p {
     color: var(--text-muted);
-    font-size: 1.1rem;
+    font-size: 1rem;
+    max-width: 500px;
 }
 
 .search-container {
@@ -139,15 +137,14 @@ header p {
 
 #search-input {
     width: 100%;
-    padding: 1.2rem 1.5rem 1.2rem 3.5rem;
-    background: var(--card-bg);
+    padding: 1rem 1.2rem 1rem 3.2rem;
+    background: rgba(30, 41, 59, 0.4); /* Subtle glass */
     border: 1px solid var(--glass-border);
-    backdrop-filter: blur(12px);
-    border-radius: 1rem;
+    backdrop-filter: blur(10px);
+    border-radius: 0.75rem;
     color: white;
-    font-size: 1.1rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+    font-size: 1rem;
+    transition: all 0.2s ease;
 }
 
 #search-input:focus {
@@ -173,39 +170,21 @@ header p {
 }
 
 .term-card {
-    background: var(--card-bg);
+    background: rgba(30, 41, 59, 0.3);
     border: 1px solid var(--glass-border);
-    backdrop-filter: blur(10px);
-    padding: 1.5rem;
-    border-radius: 1rem;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 1.25rem;
+    border-radius: 0.75rem;
+    transition: all 0.3s ease;
     cursor: pointer;
-    position: relative;
-    overflow: hidden;
 }
 
 .term-card:hover {
-    transform: translateY(-5px) scale(1.02);
-    border-color: rgba(99, 102, 241, 0.4);
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.4);
-    background: rgba(30, 41, 59, 0.9);
+    background: rgba(30, 41, 59, 0.5);
+    border-color: rgba(99, 102, 241, 0.3);
+    transform: translateY(-2px);
 }
 
-.term-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 100%;
-    background: var(--primary);
-    transform: scaleY(0);
-    transition: transform 0.3s ease;
-}
-
-.term-card:hover::before {
-    transform: scaleY(1);
-}
+.term-card::before { display: none; } /* Remove side line for minimalism */
 
 .term-header {
     display: flex;
