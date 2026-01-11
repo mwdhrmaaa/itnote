@@ -988,6 +988,39 @@ const itTerms = [
             zh: "移动开发",
             ar: "تطوير تطبيقات الجوال"
         }
+    },
+    {
+        id: "reactnative",
+        term: {
+            en: "React Native",
+            id: "React Native",
+            es: "React Native",
+            fr: "React Native",
+            de: "React Native",
+            ja: "React Native",
+            zh: "React Native",
+            ar: "رياكت نيتف (React Native)"
+        },
+        definition: {
+            en: "An open-source UI software framework created by Meta Platforms, Inc. used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP.",
+            id: "Framework perangkat lunak UI open-source yang dibuat oleh Meta Platforms, Inc. yang digunakan untuk membangun aplikasi untuk Android, iOS, Web, dan platform lainnya.",
+            es: "Un marco de software de interfaz de usuario de código abierto creado por Meta Platforms, Inc. utilizado para desarrollar aplicaciones para Android, iOS, Web y otras plataformas.",
+            fr: "Un framework logiciel d'interface utilisateur open source créé par Meta Platforms, Inc. utilisé pour développer des applications pour Android, iOS, Web et d'autres plateformes.",
+            de: "Ein von Meta Platforms, Inc. entwickeltes Open-Source-UI-Software-Framework zur Entwicklung von Anwendungen für Android, iOS, Web und andere Plattformen.",
+            ja: "Meta Platforms, Inc.によって作成されたオープンソースのUIソフトウェアフレームワークで、Android、iOS、Web、およびその他のプラットフォーム向けのアプリケーション開発に使用されます。",
+            zh: "由 Meta Platforms, Inc. 创建的开源 UI 软件框架，用于开发 Android、iOS、Web 和其他平台的应用程序。",
+            ar: "إطار عمل برمجيات واجهة مستخدم مفتوح المصدر أنشأته شركة Meta Platforms، Inc. ويستخدم لتطوير تطبيقات لأنظمة Android و iOS و Web ومنصات أخرى."
+        },
+        category: {
+            en: "Mobile Development",
+            id: "Pengembangan Mobile",
+            es: "Desarrollo Móvil",
+            fr: "Développement Mobile",
+            de: "Mobilentwicklung",
+            ja: "モバイル開発",
+            zh: "移动开发",
+            ar: "تطوير تطبيقات الجوال"
+        }
     }
 ];
 
