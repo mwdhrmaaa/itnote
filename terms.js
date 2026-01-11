@@ -922,6 +922,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "aspnet",
+        term: {
+            en: "ASP.NET",
+            id: "ASP.NET",
+            es: "ASP.NET",
+            fr: "ASP.NET",
+            de: "ASP.NET",
+            ja: "ASP.NET",
+            zh: "ASP.NET",
+            ar: "ASP.NET"
+        },
+        definition: {
+            en: "An open-source server-side web application framework designed by Microsoft for web development to produce dynamic web pages.",
+            id: "Framework aplikasi web sisi server open-source yang dirancang oleh Microsoft untuk pengembangan web guna menghasilkan halaman web dinamis.",
+            es: "Un marco de aplicación web del lado del servidor de código abierto diseñado por Microsoft para el desarrollo web para producir páginas web dinámicas.",
+            fr: "Un framework d'application Web côté serveur open source conçu par Microsoft pour le développement Web afin de produire des pages Web dynamiques.",
+            de: "Ein Open-Source-serverseitiges Webanwendungs-Framework, das von Microsoft für die Webentwicklung entwickelt wurde, um dynamische Webseiten zu erstellen.",
+            ja: "動的なウェブページを作成するためにMicrosoftによって設計された、オープンソースのサーバーサイドウェブアプリケーションフレームワーク。",
+            zh: "一个由 Microsoft 设计的开源服务器端 Web 应用程序框架，用于动态 Web 页面开发。",
+            ar: "إطار عمل لتطبيقات الويب من جانب الخادم مفتوح المصدر صممته شركة Microsoft لتطوير الويب لإنتاج صفحات ويب ديناميكية."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
