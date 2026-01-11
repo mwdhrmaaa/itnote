@@ -1945,6 +1945,39 @@ const itTerms = [
             zh: "基础设施",
             ar: "البنية التحتية"
         }
+    },
+    {
+        id: "microservices",
+        term: {
+            en: "Microservices",
+            id: "Microservices",
+            es: "Microservicios",
+            fr: "Microservices",
+            de: "Mikroservices",
+            ja: "マイクロサービス",
+            zh: "微服务",
+            ar: "الخدمات المصغرة (Microservices)"
+        },
+        definition: {
+            en: "An architectural style that structures an application as a collection of services that are highly maintainable and testable.",
+            id: "Gaya arsitektur yang menstrukturkan aplikasi sebagai kumpulan layanan yang sangat mudah dipelihara dan diuji.",
+            es: "Un estilo arquitectónico que estructura una aplicación como una colección de servicios que son altamente mantenibles y probables.",
+            fr: "Un style architectural qui structure une application comme un ensemble de services hautement maintenables et testables.",
+            de: "Ein Architekturstil, der eine Anwendung als eine Sammlung von Diensten strukturiert, die hochgradig wartbar und testbar sind.",
+            ja: "アプリケーションを、保守性とテスト可能性が高いサービスのコレクションとして構成するアーキテクチャスタイル。",
+            zh: "一种架构风格，将应用程序构建为一系列高度可维护和可测试的服务集合。",
+            ar: "أسلوب معماري يبني التطبيق كمجموعة من الخدمات التي يمكن صيانتها واختبارها بدرجة عالية."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
