@@ -1549,6 +1549,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "eslint",
+        term: {
+            en: "ESLint",
+            id: "ESLint",
+            es: "ESLint",
+            fr: "ESLint",
+            de: "ESLint",
+            ja: "ESLint",
+            zh: "ESLint",
+            ar: "ESLint"
+        },
+        definition: {
+            en: "A static code analysis tool for identifying problematic patterns found in JavaScript code.",
+            id: "Alat analisis kode statis untuk mengidentifikasi pola bermasalah yang ditemukan dalam kode JavaScript.",
+            es: "Una herramienta de análisis de código estático para identificar patrones problemáticos encontrados en el código JavaScript.",
+            fr: "Un outil d'analyse de code statique pour identifier les modèles problématiques trouvés dans le code JavaScript.",
+            de: "Ein statisches Code-Analysetool zur Identifizierung problematischer Muster im JavaScript-Code.",
+            ja: "JavaScriptコードで見つかった問題のあるパターンを特定するための静的コード分析ツール。",
+            zh: "一个用于识别 JavaScript 代码中发现的问题模式的静态代码分析工具。",
+            ar: "أداة تحليل كود ثابتة لتحديد الأنماط الإشكالية الموجودة في كود JavaScript."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
