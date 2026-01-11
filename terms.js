@@ -493,6 +493,138 @@ const itTerms = [
             zh: "基础设施",
             ar: "البنية التحتية"
         }
+    },
+    {
+        id: "python",
+        term: {
+            en: "Python",
+            id: "Python",
+            es: "Python",
+            fr: "Python",
+            de: "Python",
+            ja: "パイソン",
+            zh: "Python",
+            ar: "بايثون (Python)"
+        },
+        definition: {
+            en: "An interpreted, high-level, general-purpose programming language known for its readability.",
+            id: "Bahasa pemrograman tingkat tinggi, interpreted, dan serbaguna yang dikenal karena keterbacaannya.",
+            es: "Un lenguaje de programación interpretado, de alto nivel y de propósito general conocido por su legibilidad.",
+            fr: "Un langage de programmation interprété, de haut niveau et à usage général, connu pour sa lisibilité.",
+            de: "Eine interpretierte, hochgradige Mehrzweck-Programmiersprache, die für ihre Lesbarkeit bekannt ist.",
+            ja: "読みやすさで知られる、インタプリタ形式のハイレベルな汎用プログラミング言語。",
+            zh: "一种解释型、高级、通用的编程语言，以其可读性而闻名。",
+            ar: "لغة برمجة مفسرة، عالية المستوى، عامة الغرض ومعروفة بوضوح شفرتها البرمجية."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
+    },
+    {
+        id: "javascript",
+        term: {
+            en: "JavaScript",
+            id: "JavaScript",
+            es: "JavaScript",
+            fr: "JavaScript",
+            de: "JavaScript",
+            ja: "ジャバスクリプト",
+            zh: "JavaScript",
+            ar: "جافا سكريبت (JavaScript)"
+        },
+        definition: {
+            en: "A high-level, often just-in-time compiled language that is one of the core technologies of the World Wide Web.",
+            id: "Bahasa pemrograman tingkat tinggi, yang sering dikompilasi tepat waktu (just-in-time), yang merupakan salah satu teknologi inti integrasi World Wide Web.",
+            es: "Un lenguaje interpretado de alto nivel que cumple con la especificación ECMAScript y es una de las tecnologías centrales de la World Wide Web.",
+            fr: "Un langage de haut niveau, souvent compilé juste à temps, qui est l'une des technologies de base du World Wide Web.",
+            de: "Eine hochgradige, oft Just-in-Time-kompilierte Sprache, die eine der Kerntechnologien des World Wide Web ist.",
+            ja: "World Wide Webのコアテクノロジーの1つである、ハイレベルで多くの場合ジャストインタイムでコンパイルされる言語。",
+            zh: "一种高级的、通常即时编译的语言，是万维网的核心技术之一。",
+            ar: "لغة عالية المستوى، غالباً ما يتم تجميعها في الوقت المناسب (just-in-time)، وهي إحدى التقنيات الأساسية للويب."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
+    },
+    {
+        id: "firewall",
+        term: {
+            en: "Firewall",
+            id: "Tembok Api (Firewall)",
+            es: "Cortafuegos",
+            fr: "Pare-feu",
+            de: "Firewall",
+            ja: "ファイアウォール",
+            zh: "防火墙",
+            ar: "جدار حماية (Firewall)"
+        },
+        definition: {
+            en: "A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+            id: "Sistem keamanan jaringan yang memantau dan mengontrol lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang ditentukan sebelumnya.",
+            es: "Un sistema de seguridad de red que monitorea y controla el tráfico de red entrante y saliente según reglas de seguridad predeterminadas.",
+            fr: "Un système de sécurité réseau qui surveille et contrôle le trafic réseau entrant et sortant en fonction de règles de sécurité prédéfinies.",
+            de: "Ein Netzwerksicherheitssystem, das den ein- und ausgehenden Netzwerkverkehr basierend auf vorgegebenen Sicherheitsregeln überwacht und steuert.",
+            ja: "あらかじめ決められたセキュリティルールに基づいて、ネットワークへの入り口や出口でトラフィックを監視・制御するセキュリティシステム。",
+            zh: "一种根据预定的安全规则监控和控制进出网络流量的网络安全系统。",
+            ar: "نظام أمان للشبكة يراقب ويتحكم في حركة مرور الشبكة الواردة والصادرة بناءً على قواعد أمان محددة مسبقًا."
+        },
+        category: {
+            en: "Security",
+            id: "Keamanan",
+            es: "Seguridad",
+            fr: "Sécurité",
+            de: "Sicherheit",
+            ja: "セキュリティ",
+            zh: "安全",
+            ar: "الأمن"
+        }
+    },
+    {
+        id: "agile",
+        term: {
+            en: "Agile",
+            id: "Agile",
+            es: "Agile",
+            fr: "Agile",
+            de: "Agile",
+            ja: "アジャイル",
+            zh: "敏捷",
+            ar: "أجايل (Agile)"
+        },
+        definition: {
+            en: "A software development methodology based on iterative development and frequent feedback.",
+            id: "Metodologi pengembangan perangkat lunak berdasarkan pengembangan iteratif dan umpan balik yang sering.",
+            es: "Una metodología de desarrollo de software basada en el desarrollo iterativo y la retroalimentación frecuente.",
+            fr: "Une méthodologie de développement logiciel basée sur un développement itératif et des feedbacks fréquents.",
+            de: "Eine Methode zur Softwareentwicklung, die auf iterativer Entwicklung und häufigem Feedback basiert.",
+            ja: "反復的な開発と頻繁なフィードバックに基づいたソフトウェア開発手法。",
+            zh: "一种基于迭代开发和频繁反馈的软件开发方法。",
+            ar: "منهجية لتطوير البرمجيات تعتمد على التطوير المتكرر والملاحظات المستمرة."
+        },
+        category: {
+            en: "Methodology",
+            id: "Metodologi",
+            es: "Metodología",
+            fr: "Méthodologie",
+            de: "Methodik",
+            ja: "手法",
+            zh: "方法论",
+            ar: "المنهجية"
+        }
     }
 ];
 
