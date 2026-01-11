@@ -1912,6 +1912,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "serverless",
+        term: {
+            en: "Serverless Computing",
+            id: "Komputasi Serverless",
+            es: "Computación sin servidor",
+            fr: "Informatique sans serveur",
+            de: "Serverless Computing",
+            ja: "サーバーレスコンピューティング",
+            zh: "无服务器计算",
+            ar: "الحوسبة بدون خوادم"
+        },
+        definition: {
+            en: "A cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers.",
+            id: "Model eksekusi komputasi awan di mana penyedia layanan awan mengalokasikan sumber daya mesin sesuai permintaan, mengelola server atas nama pelanggan mereka.",
+            es: "Un modelo de ejecución de computación en la nube en el que el proveedor de la nube asigna recursos de la máquina a pedido, cuidando los servidores en nombre de sus clientes.",
+            fr: "Un modèle d'exécution de cloud computing dans lequel le fournisseur de cloud alloue des ressources machine à la demande, en prenant soin des serveurs pour le compte de ses clients.",
+            de: "Ein Cloud-Computing-Ausführungsmodell, bei dem der Cloud-Anbieter Maschinenressourcen bei Bedarf zuweist und sich im Namen seiner Kunden um die Server kümmert.",
+            ja: "クラウドプロバイダーがオンデマンドでマシンリソースを割り当て、顧客に代わってサーバーの管理を行うクラウドコンピューティングの実行モデル。",
+            zh: "一种云计算执行模型，云提供商根据需要分配机器资源，并代表客户管理服务器。",
+            ar: "نموذج تنفيذ الحوسبة السحابية حيث يقوم مزود السحابة بتخصيص موارد الجهاز عند الطلب، مع رعاية الخوادم نيابة عن عملائه."
+        },
+        category: {
+            en: "Infrastructure",
+            id: "Infrastruktur",
+            es: "Infraestructura",
+            fr: "Infrastructure",
+            de: "Infrastruktur",
+            ja: "インフラストラクチャ",
+            zh: "基础设施",
+            ar: "البنية التحتية"
+        }
     }
 ];
 
