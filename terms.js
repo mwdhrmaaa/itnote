@@ -1219,6 +1219,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "java",
+        term: {
+            en: "Java",
+            id: "Java",
+            es: "Java",
+            fr: "Java",
+            de: "Java",
+            ja: "Java",
+            zh: "Java",
+            ar: "جافا (Java)"
+        },
+        definition: {
+            en: "A high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.",
+            id: "Bahasa pemrograman tingkat tinggi, berbasis kelas, berorientasi objek yang dirancang untuk memiliki sesedikit mungkin ketergantungan implementasi.",
+            es: "Un lenguaje de programación de alto nivel, basado en clases y orientado a objetos, diseñado untuk tener la menor cantidad posible de dependencias de implementación.",
+            fr: "Un langage de programmation de haut niveau, basé sur des classes et orienté objet, conçu pour avoir le moins de dépendances d'implémentation possible.",
+            de: "Eine hochgradige, klassenbasierte, objektorientierte Programmiersprache, die so konzipiert ist, dass sie so wenige Implementierungsabhängigkeiten wie möglich hat.",
+            ja: "実装の依存関係を可能な限り少なくするように設計された、高レベル、クラスベース、オブジェクト指向のプログラミング言語。",
+            zh: "一种高级的、基于类的、面向对象的编程语言，旨在尽可能减少实现依赖。",
+            ar: "لغة برمجة عالية المستوى، تعتمد على الفئات، وموجهة للكائنات ومصممة بحيث يكون لها أقل قدر ممكن من تبعيات التنفيذ."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
