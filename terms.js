@@ -823,6 +823,39 @@ const itTerms = [
             zh: "后端开发",
             ar: "تطوير بيئة العمل الخلفية"
         }
+    },
+    {
+        id: "laravel",
+        term: {
+            en: "Laravel",
+            id: "Laravel",
+            es: "Laravel",
+            fr: "Laravel",
+            de: "Laravel",
+            ja: "ララベル (Laravel)",
+            zh: "Laravel",
+            ar: "لارافل (Laravel)"
+        },
+        definition: {
+            en: "An open-source PHP web framework known for its expressive and elegant syntax, following the MVC architectural pattern.",
+            id: "Framework web PHP open-source yang dikenal dengan sintaksisnya yang ekspresif dan elegan, mengikuti pola arsitektur MVC.",
+            es: "Un marco web PHP de código abierto conocido por su sintaxis expresiva y elegante, que sigue el patrón arquitectónico MVC.",
+            fr: "Un framework Web PHP open source connu pour sa syntaxe expressive et élégante, suivant le modèle architectural MVC.",
+            de: "Ein Open-Source-PHP-Web-Framework, das für seine expressive und elegante Syntax bekannt ist und dem MVC-Architekturmuster folgt.",
+            ja: "MVCアーキテクチャパターンに従い、表現力豊かでエレガントな構文で知られるオープンソースのPHPウェブフレームワーク。",
+            zh: "一个开源的 PHP Web 框架，以其表现力丰富且优雅的语法而闻名，遵循 MVC 架构模式。",
+            ar: "إطار عمل ويب PHP مفتوح المصدر معروف بتركيبه التعبيري والأنيق، ويتبع نمط هندسة MVC."
+        },
+        category: {
+            en: "Backend Development",
+            id: "Pengembangan Backend",
+            es: "Desarrollo Backend",
+            fr: "Développement Backend",
+            de: "Backend-Entwicklung",
+            ja: "バックエンド開発",
+            zh: "后端开发",
+            ar: "تطوير بيئة العمل الخلفية"
+        }
     }
 ];
 
