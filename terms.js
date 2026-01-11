@@ -1384,6 +1384,39 @@ const itTerms = [
             zh: "Web 开发",
             ar: "تطوير الويب"
         }
+    },
+    {
+        id: "webpack",
+        term: {
+            en: "Webpack",
+            id: "Webpack",
+            es: "Webpack",
+            fr: "Webpack",
+            de: "Webpack",
+            ja: "ウェブパック (Webpack)",
+            zh: "Webpack",
+            ar: "ويب باك (Webpack)"
+        },
+        definition: {
+            en: "A popular open-source JavaScript module bundler for modern JavaScript applications.",
+            id: "Bundler modul JavaScript open-source populer untuk aplikasi JavaScript modern.",
+            es: "Un popular empaquetador de módulos de JavaScript de código abierto para aplicaciones modernas de JavaScript.",
+            fr: "Un packageur de modules JavaScript open source populaire pour les applications JavaScript modernes.",
+            de: "Ein beliebter Open-Source-JavaScript-Modulbundler für moderne JavaScript-Anwendungen.",
+            ja: "最新のJavaScriptアプリケーション向けの、人気のオープンソースJavaScriptモジュールバンドラー。",
+            zh: "一个用于现代 JavaScript 应用程序的流行开源 JavaScript 模块打包器。",
+            ar: "مجمع وحدات جافا سكريبت مفتوح المصدر شائع لتطبيقات جافا سكريبت الحديثة."
+        },
+        category: {
+            en: "Web Development",
+            id: "Pengembangan Web",
+            es: "Desarrollo Web",
+            fr: "Développement Web",
+            de: "Webentwicklung",
+            ja: "ウェブ開発",
+            zh: "Web 开发",
+            ar: "تطوير الويب"
+        }
     }
 ];
 
