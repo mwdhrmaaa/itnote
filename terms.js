@@ -1054,6 +1054,39 @@ const itTerms = [
             zh: "移动开发",
             ar: "تطوير تطبيقات الجوال"
         }
+    },
+    {
+        id: "kotlin",
+        term: {
+            en: "Kotlin",
+            id: "Kotlin",
+            es: "Kotlin",
+            fr: "Kotlin",
+            de: "Kotlin",
+            ja: "コトリン (Kotlin)",
+            zh: "Kotlin",
+            ar: "كوتلن (Kotlin)"
+        },
+        definition: {
+            en: "A cross-platform, statically typed, general-purpose programming language with type inference, developed by JetBrains.",
+            id: "Bahasa pemrograman serbaguna, lintas platform, diketik secara statis dengan inferensi tipe, dikembangkan oleh JetBrains.",
+            es: "Un lenguaje de programación de propósito general, multiplataforma, estáticamente tipado con inferencia de tipos, desarrollado por JetBrains.",
+            fr: "Un langage de programmation polyvalent, multiplateforme, à typage statique avec inférence de types, développé par JetBrains.",
+            de: "Eine plattformübergreifende, statisch typisierte Allzweck-Programmiersprache mit Typinferenz, entwickelt von JetBrains.",
+            ja: "JetBrainsによって開発された、型推論を備えたクロスプラットフォーム、静的型付け、汎用のプログラミング言語。",
+            zh: "一门由 JetBrains 开发的跨平台、静态类型、多范式通用编程语言，具有类型推断功能。",
+            ar: "لغة برمجة للأغراض العامة، متعددة المنصات، مكتوبة بشكل ثابت مع استنتاج النوع، طورتها شركة JetBrains."
+        },
+        category: {
+            en: "Mobile Development",
+            id: "Pengembangan Mobile",
+            es: "Desarrollo Móvil",
+            fr: "Développement Mobile",
+            de: "Mobilentwicklung",
+            ja: "モバイル開発",
+            zh: "移动开发",
+            ar: "تطوير تطبيقات الجوال"
+        }
     }
 ];
 
