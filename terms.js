@@ -1813,6 +1813,39 @@ const itTerms = [
             zh: "软件开发",
             ar: "تطوير البرمجيات"
         }
+    },
+    {
+        id: "bun",
+        term: {
+            en: "Bun",
+            id: "Bun",
+            es: "Bun",
+            fr: "Bun",
+            de: "Bun",
+            ja: "Bun",
+            zh: "Bun",
+            ar: "Bun"
+        },
+        definition: {
+            en: "Incredibly fast all-in-one JavaScript runtime, package manager, and test runner.",
+            id: "Runtime JavaScript all-in-one, manajer paket, dan test runner yang luar biasa cepat.",
+            es: "Entorno de ejecución de JavaScript todo en uno, administrador de paquetes y ejecutor de pruebas increíblemente rápido.",
+            fr: "Moteur d'exécution JavaScript tout-en-un, gestionnaire de paquets et exécuteur de tests incroyablement rapide.",
+            de: "Unglaublich schnelle All-in-One-JavaScript-Laufzeitumgebung, Paketmanager und Test-Runner.",
+            ja: "驚異的に高速なオールインワンのJavaScriptランタイム、パッケージマネージャー、テストランナー。",
+            zh: "极其快速的全能型 JavaScript 运行时、包管理器和测试运行器。",
+            ar: "بيئة تشغيل جافا سكريبت الكل في واحد سريعة بشكل لا يصدق، ومدير حزم، ومشغل اختبارات."
+        },
+        category: {
+            en: "Software Development",
+            id: "Pengembangan Perangkat Lunak",
+            es: "Desarrollo de Software",
+            fr: "Développement Logiciel",
+            de: "Softwareentwicklung",
+            ja: "ソフトウェア開発",
+            zh: "软件开发",
+            ar: "تطوير البرمجيات"
+        }
     }
 ];
 
